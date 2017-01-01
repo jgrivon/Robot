@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Invocateur.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Robot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Position.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Position.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Robot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/Etat.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/Etat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/Fige.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/enCharge.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/aVide.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/aVideFacePlot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/Fige.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/enChargeFacePlot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/aVideFacePlot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/enCharge.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/Enroute.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/aVide.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/Enroute.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etat/enChargeFacePlot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Objet.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Plot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/afficheur/Afficheur.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/afficheur/AfficheurRustique.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/afficheur/AfficheurRustique.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/afficheur/Afficheur.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Commande.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/RencontrerPlot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/CommandeRobot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Avancer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Peser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Avancer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Figer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Annuler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/EvaluerPlot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/CommandeRobot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/EvaluerPlot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Poser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/RencontrerPlot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Poser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Figer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Commande.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Annuler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commande/Peser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Invocateur.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Objet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Plot.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
