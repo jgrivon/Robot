@@ -6,13 +6,13 @@
 #define ROBOT_ANNULER_H
 
 
-#include "Commande.h"
+#include "CommandeRobot.h"
 
-class Annuler : public Commande{
+class Annuler : public CommandeRobot{
 
     static Annuler* exemplaire;
     Annuler(Invocateur* i);
-    Annuler() : Commande("ANNULER"){}
+    Annuler() : CommandeRobot("ANNULER"){}
     virtual void execute();
     virtual void unexecute(){};
     virtual Commande* constructeurVirtuel(Invocateur* i);

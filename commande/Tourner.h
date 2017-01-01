@@ -6,9 +6,9 @@
 #define ROBOT_TOURNER_H
 
 
-#include "Commande.h"
+#include "CommandeRobot.h"
 
-class Tourner : public Commande{
+class Tourner : public CommandeRobot{
 public:
     Tourner();
     virtual void execute();

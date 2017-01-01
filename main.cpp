@@ -13,7 +13,7 @@ int main() {
 
     Invocateur invocateur = Invocateur();
     invocateur.robot = robot;
-    invocateur.read("/home/user/Cours/COO/commandes.txt");
+    invocateur.read("C:\\Users\\Zineb\\Documents\\Courses\\SI4\\COO\\git\\Robot\\commandes.txt");
 
     return 0;
 }

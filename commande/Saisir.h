@@ -6,11 +6,11 @@
 #define ROBOT_SAISIR_H
 
 
-#include "Commande.h"
+#include "CommandeRobot.h"
 #include "../Objet.h"
 #include "../etat/Etat.h"
 
-class Saisir: public Commande
+class Saisir: public CommandeRobot
 {
 public:
     Saisir(Objet* o);
